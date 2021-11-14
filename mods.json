@@ -7,12 +7,12 @@
 		},
 		{
 			"name": "Dark Theme",
-			"url": "https://github.com/DarkSnakeGang/GoogleSnakeDarkMode/blob/main/custom_color_scheme.js",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
       "execute": "snake.dark();"
 		},
     {
 			"name": "Pink Theme",
-			"url": "https://github.com/DarkSnakeGang/GoogleSnakeDarkMode/blob/main/custom_color_scheme.js",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
       "execute": "snake.pink();"
 		}
 	]
