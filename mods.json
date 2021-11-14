@@ -1,0 +1,19 @@
+{
+	"programs": [
+		{
+			"name": "More Menu",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js",
+      "execute": "snake.more_menu();"
+		},
+		{
+			"name": "Dark Theme",
+			"url": "https://github.com/DarkSnakeGang/GoogleSnakeDarkMode/blob/main/custom_color_scheme.js",
+      "execute": "snake.dark();"
+		},
+    {
+			"name": "Pink Theme",
+			"url": "https://github.com/DarkSnakeGang/GoogleSnakeDarkMode/blob/main/custom_color_scheme.js",
+      "execute": "snake.pink();"
+		}
+	]
+}
