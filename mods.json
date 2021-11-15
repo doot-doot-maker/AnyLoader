@@ -14,6 +14,31 @@
 			"name": "Pink Theme",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
       "execute": "snake.pink();"
+		},
+		{
+			"name": "Desert Theme",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
+      "execute": "snake.desert();"
+		},
+		{
+			"name": "Pool Theme",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
+      "execute": "snake.pool();"
+		},
+		{
+			"name": "Colorful Theme",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
+      "execute": "snake.colorful();"
+		},
+		{
+			"name": "Light Theme",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
+      "execute": "snake.light();"
+		},
+		{
+			"name": "End Theme",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
+      "execute": "snake.end();"
 		}
 	]
 }
