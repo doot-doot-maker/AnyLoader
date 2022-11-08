@@ -44,6 +44,11 @@
 			"name": "Mouse Mode",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeMouseMode/main/mouse.js",
       "execute": "snake.pythagoras();"	
+		},
+		{
+			"name": "snake follow mouce",
+			"url": "https://raw.githubusercontent.com/Senko12/google-snake-hack/main/hack.js",
+      "execute": "run();"	
 		}
 	]
 }
