@@ -39,6 +39,11 @@
 			"name": "End Theme",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
       "execute": "snake.end();"
+		},
+		{
+			"name": "Mouse Mode",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeMouseMode/main/mouse.js",
+      "execute": "snake.pythagoras();"	
 		}
 	]
 }
