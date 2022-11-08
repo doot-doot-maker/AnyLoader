@@ -91,7 +91,7 @@ downloadElement.onclick = function () {
   mainUIElement.remove()
 }
 
-fetch("https://raw.githubusercontent.com/SilasCorp/SnakeLoader/main/mods.json", {cache: "no-store"})
+fetch("https://raw.githubusercontent.com/Senko12/SnakeLoader/main/mods.json", {cache: "no-store"})
   .then((response) => response.json())
   .then((responseJSON) => {
     responseJSON.programs.forEach(function (program) {
