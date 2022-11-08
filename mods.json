@@ -47,8 +47,7 @@
 		},
 		{
 			"name": "TimeKeeper",
-			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",
-      "execute": "snake.timekeeper();"	
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",	
 		}
 	]
 }
