@@ -44,10 +44,6 @@
 			"name": "Mouse Mode",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeMouseMode/main/mouse.js",
       "execute": "snake.pythagoras();"	
-		},
-		{
-			"name": "TimeKeeper",
-			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",	
 		}
 	]
 }
