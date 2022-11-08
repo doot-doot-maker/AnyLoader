@@ -48,7 +48,7 @@
 		{
 			"name": "TimeKeeper",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",
-      "execute": "water"	
+      "execute": "water.m();"	
 		}
 	]
 }
