@@ -49,6 +49,11 @@
 			"name": "snake follow mouce",
 			"url": "https://raw.githubusercontent.com/Senko12/google-snake-hack/main/hack.js",
       "execute": "run();"	
+		},
+		{
+			"name": "TimeKeeper",
+			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeTimeKeeper/main/TimeKeeper.js",
+      "execute": "run();"	
 		}
 	]
 }
