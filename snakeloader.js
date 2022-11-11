@@ -72,7 +72,7 @@ document.getElementsByTagName("head")[0].appendChild(snakeloader_style);
 var htmlUI = `
 <div id="snakeloader-overlay">
   <div id="snakeloader-box">
-    <span id="snakeloader-text">SnakeLoader</span>
+    <span id="snakeloader-text">AnyLoader</span>
     <select id="snakeloader-select">
     </select>
     <button id="snakeloader-download">Download</button>
