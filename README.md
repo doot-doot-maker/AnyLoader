@@ -1,3 +1,3 @@
-# SnakeLoader
-A mod loader for Google's snake game.
-This may get updated with more mods
+# AnyLoader
+A fork of Senko12/SnakeLoader
+Has any bookmarklets that I may use
