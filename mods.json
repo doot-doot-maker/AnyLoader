@@ -3,7 +3,7 @@
 		{
 			"name": "Coolmath Ad Skipper",
 			"url": "https://raw.githubusercontent.com/doot-doot-maker/coolmathadskipper/main/code.js",
-      "execute": "cmg_remove_padg();"
+      "execute": "run();"
 		},
 		{
 			"name": "Dark Theme",
