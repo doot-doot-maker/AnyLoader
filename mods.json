@@ -1,9 +1,9 @@
 {
 	"programs": [
 		{
-			"name": "More Menu",
+			"name": "Coolmath Ad Skipper",
 			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js",
-      "execute": "snake.more_menu();"
+      "execute": "cmg_remove_padg();"
 		},
 		{
 			"name": "Dark Theme",
