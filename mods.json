@@ -6,9 +6,9 @@
       "execute": "run();"
 		},
 		{
-			"name": "Dark Theme",
-			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
-      "execute": "snake.dark();"
+			"name": "Google Drive Hider",
+			"url": "https://raw.githubusercontent.com/doot-doot-maker/gdrivehider/main/code.js",
+      "execute": "run();"
 		},
     {
 			"name": "Pink Theme",
