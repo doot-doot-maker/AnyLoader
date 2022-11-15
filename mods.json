@@ -11,9 +11,9 @@
       "execute": "run();"
 		},
     {
-			"name": "Pink Theme",
-			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
-      "execute": "snake.pink();"
+			"name": "Snake",
+			"url": "https://raw.githubusercontent.com/Senko12/snake-in-a-bookmarklet/main/code.js",
+      "execute": "run();"
 		},
 		{
 			"name": "Desert Theme",
