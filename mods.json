@@ -16,9 +16,9 @@
       "execute": "run();"
 		},
 		{
-			"name": "Desert Theme",
-			"url": "https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js",
-      "execute": "snake.desert();"
+			"name": "SnakeLoader",
+			"url": "https://raw.githubusercontent.com/Senko12/SnakeLoader/main/idk.js",
+      "execute": "run();"
 		},
 		{
 			"name": "Pool Theme",
